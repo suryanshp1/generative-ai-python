@@ -1,0 +1,3 @@
+transformers
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.0+cpu
